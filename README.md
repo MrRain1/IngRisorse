@@ -112,15 +112,20 @@ Cool Videos: [`Tesla Valve | The complete physics`](https://www.youtube.com/watc
 
 [**mitxela**](https://www.youtube.com/@mitxela)\
 Contenuto: Electronics DIY Projects\
-Cool Videos: [`Stylophone Business Card`](https://www.youtube.com/watch?v=zHVrY_xLM3c&t), [`Melt your circuit boards`](https://www.youtube.com/watch?v=euJgtLcWWyo&t), [`Plotter Fun`](https://youtu.be/gLG6Mp4n-Ms)\
+Cool Videos: \
+[`Stylophone Business Card`](https://www.youtube.com/watch?v=zHVrY_xLM3c&t),\
+[`Melt your circuit boards`](https://www.youtube.com/watch?v=euJgtLcWWyo&t),\
+[`Plotter Fun`](https://youtu.be/gLG6Mp4n-Ms)\
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-pxv4Rtts25vP6Rqk06rS8klT_g5U9KvWcVm2k9es=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ZackFreedman)
 
 [**Zack Freedman**](https://www.youtube.com/@ZackFreedman)\
 Contenuto: Electronics DIY Projects, 3D Printing\
-Featured playlists: `How to Build`, `Projects`\
-Cool Videos: [`How to Build MECHANICAL KEYBOARDS`](https://www.youtube.com/watch?v=yYcNi9hKxDk&t), [`I Tested (Almost) EVERY FILAMENT on Amazon: Every Single Filament Part I`](https://www.youtube.com/watch?v=vSwumoSlZTo&t)\
+Featured playlists: `How to Build`, `Projects`
+Cool Videos: \
+[`How to Build MECHANICAL KEYBOARDS`](https://www.youtube.com/watch?v=yYcNi9hKxDk&t),\
+[`I Tested (Almost) EVERY FILAMENT on Amazon: Every Single Filament Part I`](https://www.youtube.com/watch?v=vSwumoSlZTo&t)\
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_WG_n_N1oAgf4JGyCdxv7Oa8Xlizldt4IUQapDEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Thesignalpath)
