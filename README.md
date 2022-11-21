@@ -112,6 +112,7 @@ Cool Videos: [`Tesla Valve | The complete physics`](https://www.youtube.com/watc
 
 [**mitxela**](https://www.youtube.com/@mitxela)\
 Contenuto: Electronics DIY Projects\
+\
 Cool Videos:
 
 - [`Stylophone Business Card`](https://www.youtube.com/watch?v=zHVrY_xLM3c&t),\
@@ -123,7 +124,7 @@ Cool Videos:
 
 [**Zack Freedman**](https://www.youtube.com/@ZackFreedman)\
 Contenuto: Electronics DIY Projects, 3D Printing\
-Featured playlists: `How to Build`, `Projects`
+Featured playlists: `How to Build`, `Projects`\
 Cool Videos:
 
 - [`How to Build MECHANICAL KEYBOARDS`](https://www.youtube.com/watch?v=yYcNi9hKxDk&t),\
