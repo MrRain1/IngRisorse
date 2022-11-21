@@ -66,6 +66,14 @@ Contenuto: EM Physics, Semiconductor Physics, Calculus, Statistics\
 Featured playlists: `Digital Electronics`, `Electromagnetics`, [`Electronics I: Semiconductor Physics and Devices`](https://www.youtube.com/playlist?list=PLQms29D1RqeKGBEW8La2a7YuN5_4pSV4k)\
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_ix5z4zrFoi9h0bWrH1ZpOvC8jOYLyOxnO42NUBQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@zachstar)
+
+[**Zach Star**](https://www.youtube.com/@zachstar)\
+Contenuto: Mathematics & Engineering concepts\
+Featured playlists: `Electrical Engineering`, `Computer Science/Computer Engineering`\
+Cool Videos: [`This is How Easy It Is to Lie With Statistics`](https://www.youtube.com/watch?v=bVG2OQp6jEQ&t), [`What does the Laplace Transform really tell us? A visual explanation (plus applications)`](https://youtu.be/n2y7n6jw5d0), [`The intuition behind Fourier and Laplace transforms I was never taught in school`](https://youtu.be/3gjJDuCAEQQ)\
+<br>
+
 ### Elettronica
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_o9cRMZkh1JdSdCSBA_591svQx25P8Ib-bNb9yLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Afrotechmods)
@@ -97,7 +105,7 @@ Cool Videos: [`Making a Full Bridge Rectifier`](https://www.youtube.com/watch?v=
 [**Lesics**](https://www.youtube.com/@Lesics)\
 Contenuto: Engineering Concepts, How Things Work\
 Featured playlists: `Electronics & Electrical`, `Mechanical Equipment Design`\
-Cool Videos:[`Tesla Valve | The complete physics`](https://www.youtube.com/watch?v=suIAo0EYwOE), [`Transistors, How do they work?`](https://www.youtube.com/watch?v=7ukDKVHnac4), [`DC Motor, How it works?`](https://www.youtube.com/watch?v=LAtPHANEfQo&thttps://www.youtube.com/watch?v=LAtPHANEfQo&t)\
+Cool Videos: [`Tesla Valve | The complete physics`](https://www.youtube.com/watch?v=suIAo0EYwOE), [`Transistors, How do they work?`](https://www.youtube.com/watch?v=7ukDKVHnac4), [`DC Motor, How it works?`](https://www.youtube.com/watch?v=LAtPHANEfQo&thttps://www.youtube.com/watch?v=LAtPHANEfQo&t)\
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-vHvPV5LeUZRVVJqFLgJM7FoUXiuCelDvAHg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@mitxela)
@@ -105,6 +113,14 @@ Cool Videos:[`Tesla Valve | The complete physics`](https://www.youtube.com/watch
 [**mitxela**](https://www.youtube.com/@mitxela)\
 Contenuto: Electronics DIY Projects\
 Cool Videos: [`Stylophone Business Card`](https://www.youtube.com/watch?v=zHVrY_xLM3c&t), [`Melt your circuit boards`](https://www.youtube.com/watch?v=euJgtLcWWyo&t), [`Plotter Fun`](https://youtu.be/gLG6Mp4n-Ms)\
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-pxv4Rtts25vP6Rqk06rS8klT_g5U9KvWcVm2k9es=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ZackFreedman)
+
+[**Zack Freedman**](https://www.youtube.com/@ZackFreedman)\
+Contenuto: Electronics DIY Projects, 3D Printing\
+Featured playlists: `How to Build`, `Projects`\
+Cool Videos: [`How to Build MECHANICAL KEYBOARDS`](https://www.youtube.com/watch?v=yYcNi9hKxDk&t), [`I Tested (Almost) EVERY FILAMENT on Amazon: Every Single Filament Part I`](https://www.youtube.com/watch?v=vSwumoSlZTo&t)\
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_WG_n_N1oAgf4JGyCdxv7Oa8Xlizldt4IUQapDEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Thesignalpath)
