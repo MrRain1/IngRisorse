@@ -80,7 +80,38 @@ Featured playlists: `Electronics for Beginners`, `Motor control circuitry`\
 [**Ben Eater**](https://www.youtube.com/@BenEater)\
 Contenuto: Electronics, Electronics Analysis, Protocol Analysis\
 Featured playlists: `Digital electronics tutorial`, `Networking tutorial`\
-Cool Videos: [`How does n-key rollover work?`](https://www.youtube.com/watch?v=2lPzTU-3ONI), [The world's worst video card?](https://www.youtube.com/watch?v=l7rce6IQDWs&t), [`How does a USB keyboard work?`](https://www.youtube.com/watch?v=wdgULBpRoXk&t)\
+Cool Videos: [`How does n-key rollover work?`](https://www.youtube.com/watch?v=2lPzTU-3ONI), [`The world's worst video card?`](https://www.youtube.com/watch?v=l7rce6IQDWs&t), [`How does a USB keyboard work?`](https://www.youtube.com/watch?v=wdgULBpRoXk&t)\
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-xiimWu2-uBzreFg2swh-FuuOU6FDbPQDdYD89hA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ElectroBOOM)
+
+[**ElectroBOOM**](https://www.youtube.com/@ElectroBOOM)\
+Contenuto: Electronics Basics, ELectronics Projects\
+Featured playlists: `Electronics`, `ElectroBOOM101`, `The RECTIFIER`\
+Cool Videos: [`Making a Full Bridge Rectifier`](https://www.youtube.com/watch?v=sI5Ftm1-jik&t),
+[`Brushed DC Motors and How to Drive Them`](https://www.youtube.com/watch?v=yO9xIVv8ryc), [`AC MOTORS`](https://www.youtube.com/watch?v=lV8iPKY-3ms&t)\
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8KUtI_mQm6HWgusSPQzTlqM2ynMCJS5Vez84RQtQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Lesics)
+
+[**Lesics**](https://www.youtube.com/@Lesics)\
+Contenuto: Engineering Concepts, How Things Work\
+Featured playlists: `Electronics & Electrical`, `Mechanical Equipment Design`\
+Cool Videos:[`Tesla Valve | The complete physics`](https://www.youtube.com/watch?v=suIAo0EYwOE), [`Transistors, How do they work?`](https://www.youtube.com/watch?v=7ukDKVHnac4), [`DC Motor, How it works?`](https://www.youtube.com/watch?v=LAtPHANEfQo&thttps://www.youtube.com/watch?v=LAtPHANEfQo&t)\
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-vHvPV5LeUZRVVJqFLgJM7FoUXiuCelDvAHg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@mitxela)
+
+[**mitxela**](https://www.youtube.com/@mitxela)\
+Contenuto: Electronics DIY Projects\
+Cool Videos: [`Stylophone Business Card`](https://www.youtube.com/watch?v=zHVrY_xLM3c&t), [`Melt your circuit boards`](https://www.youtube.com/watch?v=euJgtLcWWyo&t), [`Plotter Fun`](https://youtu.be/gLG6Mp4n-Ms)\
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_WG_n_N1oAgf4JGyCdxv7Oa8Xlizldt4IUQapDEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Thesignalpath)
+
+[**The Signal Path**](https://www.youtube.com/Thesignalpath)\
+Contenuto: Electronic Lab Equipment Reviews and Repairs\
+Featured playlists: `Reviews`, `Repairs`, `Experiments` \
 <br>
 
 ### Per Arricchire La Tua Conoscenza
