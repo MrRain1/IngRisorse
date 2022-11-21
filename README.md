@@ -1,18 +1,20 @@
 # Awsome Learning Resources
 
-Questa pagina vuole contenere delle risorse gratuite presenti sul Web, come libri, documentazione, videoo siti web che ritengo interessanti per l'apprendimento, non solo in ambito scolastico ma anche per arricchirsi du nuove conoscenze o sviluppare nuovi hobby.
+Questa pagina vuole contenere delle risorse gratuite presenti sul Web, come libri, documentazione, videoo siti web che ritengo interessanti per l'apprendimento, non solo in ambito scolastico ma anche per arricchirsi su nuove conoscenze o sviluppare nuovi hobby.
 
 ## Contentuti
 
 - [Youtube](#Youtube)
-  - [Programmazione in generale](#programmazione-in-generale)
+  - [Programmazione](#programmazione)
   - [Matematica e Fisica](#matematica-e-fisica)
   - [Elettronica](#elettronica)
+  - [Hardware](#hardware)
+    - [3D Printing](#3d-printing)
   - [Per arricchire la tua conoscenza](#per-arricchire-la-tua-conoscenza)
 
-## Youtube
+## **Youtube**
 
-### Programmazione in generale 
+### **Programmazione**
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@freecodecamp)
 
@@ -56,7 +58,18 @@ Contenuto: Algorithms, Java Programming\
 Featured playlists: `Algorithms`, `Programming Concepts`, `Java Programming`\
 <br>
 
-### Matematica e Fisica
+### **Matematica e Fisica**
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu88f8bay1TND53bUscQZUsY8qm6PP7diUFkW3ntJA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Eigensteve)
+
+[**Steve Brunton**](https://www.youtube.com/@Eigensteve)\
+Contenuto: Calculus & Analysis, Physics, Data Science\
+Featured playlists: `Engineering Math: Differential Equations and Dynamical Systems`, `Fourier Analysis [Data-Driven Science and Engineering]`, `Engineering Math: Crash Course in Complex Analysis`\
+Cool Videos:
+
+- [`The Fast Fourier Transform (FFT)`](https://youtu.be/E8HeD-MUrjY)
+- [`The Laplace Transform: A Generalized Fourier Transform`](https://youtu.be/7UvtU75NXTg)
+<br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8dZDGzDIUnqCP_oUpqM4d0j76M9dNBlz_e7_z7Pg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@3blue1brown)
 
@@ -84,12 +97,12 @@ Cool Videos:
 - [`The intuition behind Fourier and Laplace transforms I was never taught in school`](https://youtu.be/3gjJDuCAEQQ)
 <br>
 
-### Elettronica
+### **Elettronica**
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_o9cRMZkh1JdSdCSBA_591svQx25P8Ib-bNb9yLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Afrotechmods)
 
 [**Channel Name**](https://www.youtube.com/Afrotechmods)\
-Contenuto: Electronics Basics, ELectronics Projects\
+Contenuto: Electronics Basics, Electronics Projects\
 Featured playlists: `Electronics for Beginners`, `Motor control circuitry`\
 <br>
 
@@ -105,6 +118,17 @@ Cool Videos:
 - [`How does a USB keyboard work?`](https://www.youtube.com/watch?v=wdgULBpRoXk&t)
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-DtVdkoGky7GTGMETBrCO3WC8oFP2i3MfIeeIKqOI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@SamZeloof)
+
+[**Sam Zeloof**](https://www.youtube.com/@SamZeloof)\
+Contenuto: Chips, Silicon Semiconductors\
+Featured playlists: `Homemade Chips`\
+Cool Videos:
+
+- [`"Z2" - Upgraded Homemade Silicon Chips`](https://youtu.be/IS5ycm7VfXg)
+- [`Semiconductor Fabrication Basics - DIY Homemade NMOS FET/MOSFET/Transistor`](https://youtu.be/s1MCi7FliVY)
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-xiimWu2-uBzreFg2swh-FuuOU6FDbPQDdYD89hA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ElectroBOOM)
 
 [**ElectroBOOM**](https://www.youtube.com/@ElectroBOOM)\
@@ -115,18 +139,6 @@ Cool Videos:
 - [`Making a Full Bridge Rectifier`](https://www.youtube.com/watch?v=sI5Ftm1-jik&t),
 - [`Brushed DC Motors and How to Drive Them`](https://www.youtube.com/watch?v=yO9xIVv8ryc),
 - [`AC MOTORS`](https://www.youtube.com/watch?v=lV8iPKY-3ms&t)
-<br>
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8KUtI_mQm6HWgusSPQzTlqM2ynMCJS5Vez84RQtQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Lesics)
-
-[**Lesics**](https://www.youtube.com/@Lesics)\
-Contenuto: Engineering Concepts, How Things Work\
-Featured playlists: `Electronics & Electrical`, `Mechanical Equipment Design`\
-Cool Videos:
-
-- [`Tesla Valve | The complete physics`](https://www.youtube.com/watch?v=suIAo0EYwOE),
-- [`Transistors, How do they work?`](https://www.youtube.com/watch?v=7ukDKVHnac4),
-- [`DC Motor, How it works?`](https://www.youtube.com/watch?v=LAtPHANEfQo&thttps://www.youtube.com/watch?v=LAtPHANEfQo&t)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@greatscottlab)
@@ -154,7 +166,7 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-pxv4Rtts25vP6Rqk06rS8klT_g5U9KvWcVm2k9es=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ZackFreedman)
 
-[**Zack Freedman**](https://www.youtube.com/@ZackFreedman)
+[**Zack Freedman**](https://www.youtube.com/@ZackFreedman)\
 Contenuto: Electronics DIY Projects, 3D Printing\
 Featured playlists: `How to Build`, `Projects`\
 Cool Videos:
@@ -170,7 +182,19 @@ Contenuto: Electronic Lab Equipment Reviews and Repairs\
 Featured playlists: `Reviews`, `Repairs`, `Experiments` \
 <br>
 
-### Hardware
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8KUtI_mQm6HWgusSPQzTlqM2ynMCJS5Vez84RQtQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Lesics)
+
+[**Lesics**](https://www.youtube.com/@Lesics)\
+Contenuto: Engineering Concepts, How Things Work\
+Featured playlists: `Electronics & Electrical`, `Mechanical Equipment Design`\
+Cool Videos:
+
+- [`Tesla Valve | The complete physics`](https://www.youtube.com/watch?v=suIAo0EYwOE),
+- [`Transistors, How do they work?`](https://www.youtube.com/watch?v=7ukDKVHnac4),
+- [`DC Motor, How it works?`](https://www.youtube.com/watch?v=LAtPHANEfQo&thttps://www.youtube.com/watch?v=LAtPHANEfQo&t)
+<br>
+
+### **Hardware**
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9NqX7ox0cpmGoHLX6uU_AGHm9y9rcOXar52TppzA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/JeffGeerling)
 
@@ -193,7 +217,91 @@ Cool Videos:
 - [`This Raspberry Pi controls ANY PC (BliKVM)`](https://youtu.be/3OPd7svT3bE)
 <br>
 
-### Per Arricchire La Tua Conoscenza
+#### **Vintage Hardware**
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/aouwUwXJt6QKcPiz959ucVKr-1WA8I7j3zaMCxyNPunx9m8CzwpNS9orjC9560zth7HpXTeP=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MVVblog)
+
+[**MVVblog**](https://www.youtube.com/@MVVblog)\
+Contenuto: Vintage Electronics Repairs, Electronic Projects\
+Featured playlists: `Elettronica`, `Esperimenti`, `Computers`\
+Cool Videos:
+
+- [`Generatore Audio Video Fai Da Te`](https://www.youtube.com/watch?v=QIlnC7ZQGIE)
+- [`Stereo 8 a cassette rotanti`](https://www.youtube.com/watch?v=OvR-Yjz1blg)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8ZPozWafzvaU0Gwh6zaEPWCIHMhq9kUCLBeWaM5g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ModernClassic)
+
+[**Modern Classic**](https://www.youtube.com/@ModernClassic)\
+Contenuto:  Vintage Electronics, Vintage Electronics Repairs\
+Featured playlists: `Repair Videos`, `Video Games`\
+Cool Videos:
+
+- [`Ultimate Keyboard Showdown - IBM Model F or Model M?`](https://www.youtube.com/watch?v=WPsQiSgykOg)
+- [`The Apple II - Apple's most important computer`](https://www.youtube.com/watch?v=DYwPL2czMu4)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9c5oi5jBYZxzP6smGTLA8T5mVN_cNnz9ZBNAo65CE=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Techmoan)
+
+[**Techmoan**](https://www.youtube.com/@Techmoan)\
+Contenuto: Vintage Electronics, Vintage Electronics Repairs\
+Featured playlists: `Retro Tech`, `Current Tech`\
+Cool Videos:
+
+- [`JVC RC-M90 The 'King of Boomboxes'`](https://www.youtube.com/watch?v=MTq4-fHFSk8)
+- [`A once common yet unseen device`](https://www.youtube.com/watch?v=3z8z0sbLsrw)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9qm8EZa7fVEFYZjLYGbM5evC8t6kqDTZ940PN_=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TechnologyConnections)
+
+[**Channel Name**](https://www.youtube.com/@TechnologyConnections)\
+Contenuto: Working Of Vintage & Current Technologies\
+Featured playlists: `Electrical topics`, `Tech Explorations`\
+Cool Videos:
+
+- [`The correcting feature of typewriters is not what I thought`](https://www.youtube.com/watch?v=YE0U018Copw)
+- [`Perhaps the weakest link in the US electrical system`](https://www.youtube.com/watch?v=K_q-xnYRugQ&t)
+- [`The Antique Toaster that's Better than Yours`](https://youtu.be/1OfxlSG6q5Y)
+<br>
+
+#### **3D Printing**
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_ypGAu1WOxjYfSK93k-CwO_gb-Ou77Q-xcqfvG-Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/CNCKitchen)
+
+[**CNC Kitchen**](https://www.youtube.com/CNCKitchen)\
+Contenuto: 3D Printing In Depth analysis\
+Featured playlists: `3D Printing for Engineers`, `Strength Tests`\
+Cool Videos:
+
+- [`Threaded Inserts in 3D Prints - How strong are they?`](https://youtu.be/iR6OBlSzp7I)
+- [`Texturing 3D Prints for Strength!`](https://youtu.be/3-ygdNQThAs)
+- [` TESTING 3D printed INFILL PATTERNS for their STRENGTH `](https://youtu.be/upELI0HmzHc)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_-ZCimZH9Q_hcobikyI2v8FaNobunynRJa-qQ-2g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@integza)
+
+[**Integza**](https://www.youtube.com/@integza)\
+Contenuto: 3D Printing Projects, Rockets, Motors\
+Featured playlists: `Rocket Engines`, `PulseJet Engine`\
+Cool Videos:
+- [`PulseJet Engine`](https://youtu.be/eTaosDKHec0)
+- [`Compressed Air Triangular Engine - Wankel Rotary`](https://youtu.be/b399G61Z3fo)
+- [` How I 3D Printed a Metal Aerospike Rocket at Home `](https://youtu.be/tw9VF1V-Lzc)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9LdrLms5xXPiLvo5gr_OVFO_2QPJVCrTyxrZPu=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ChristophLaimer)
+
+[**Christoph Laimer**](https://www.youtube.com/@ChristophLaimer)\
+Contenuto: 3D Printed Motors\
+Featured playlists: `Hints for 3d-Design and 3d-Printing`, `3d-printed brushless Motor`\
+Cool Videos:
+
+- [`Design a parametric, 3d-printable Slew Bearing`](https://www.youtube.com/watch?v=5o4Fj8OxkB8)
+- [`3d-printed Halbach Motor`](https://www.youtube.com/watch?v=YsSm65DAcCg)
+<br>
+
+
+### **Per Arricchire La Tua Conoscenza**
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
 
@@ -211,5 +319,27 @@ Cool Videos:
 [**Kurzgesagt – In a Nutshell**](https://www.youtube.com/@kurzgesagt)\
 Contenuto: Science Topics\
 Featured playlists: `The Universe and Space stuff`, `The Existential Crisis Playlist`\
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/5DBP22k02WIMvHgeoUj_Tt14Kh8u-oaAhYHQu1gXCoHuisGXnavb5k-ivpyffqIARNDzgpBbUw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NotJustBikes)
+
+[**Not Just Bikes**](https://www.youtube.com/@NotJustBikes)\
+Contenuto: Urban Planning\
+Featured playlists: `Streets & Cities`, `Public Transportation`\
+Cool Videos:
+- [`Stroads are Ugly, Expensive, and Dangerous`](https://www.youtube.com/watch?v=ORzNZUeUHAM)
+- [`The Trains that Killed an Airline - Italian HSR`](https://www.youtube.com/watch?v=IbFGG4T3_Yo)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/fBpoUkJJ6iVHfHocQ0gPcqLxa1RJIZzdGmP0o72ZK2uVJFwbNt4Afnwmkvv_NikYGCQ6oI7L4dA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Asianometry)
+
+[**Asianometry**](https://www.youtube.com/Asianometry)\
+Contenuto: Science & Technology History Essays\
+Featured playlists: `Global Semiconductor Issues`, `Asian Social Issues`, `Engineering and Technology Deep Dives`\
+Cool Videos:
+
+- [`Google's Open Source Hardware Dreams`](https://youtu.be/tR7HuqZXQ3I)
+- [`The History of the FPGA: The Ultimate Flex`](https://youtu.be/m-8G1Yixb34)
+- [`Why the Soviet Computer Failed`](https://www.youtube.com/watch?v=dnHdqPBrtH8)
 <br>
 
