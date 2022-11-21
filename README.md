@@ -4,9 +4,15 @@ Questa pagina vuole contenere delle risorse gratuite presenti sul Web, come libr
 
 ## Contentuti
 
+- [Youtube](#Youtube)
+  - [Programmazione in generale](#programmazione-in-generale)
+  - [Matematica e Fisica](#matematica-e-fisica)
+  - [Elettronica](#elettronica)
+  - [Per arricchire la tua conoscenza](#per-arricchire-la-tua-conoscenza)
+
 ## Youtube
 
-### Programmazione in generale
+### Programmazione in generale 
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@freecodecamp)
 
@@ -75,7 +81,7 @@ Cool Videos:
 
 - [`This is How Easy It Is to Lie With Statistics`](https://www.youtube.com/watch?v=bVG2OQp6jEQ&t),
 - [`What does the Laplace Transform really tell us? A visual explanation (plus applications)`](https://youtu.be/n2y7n6jw5d0),
-- [`The intuition behind Fourier and Laplace transforms I was never taught in school`](https://youtu.be/3gjJDuCAEQQ)\
+- [`The intuition behind Fourier and Laplace transforms I was never taught in school`](https://youtu.be/3gjJDuCAEQQ)
 <br>
 
 ### Elettronica
@@ -96,7 +102,7 @@ Cool Videos:
 
 - [`How does n-key rollover work?`](https://www.youtube.com/watch?v=2lPzTU-3ONI),
 - [`The world's worst video card?`](https://www.youtube.com/watch?v=l7rce6IQDWs&t),
-- [`How does a USB keyboard work?`](https://www.youtube.com/watch?v=wdgULBpRoXk&t)\
+- [`How does a USB keyboard work?`](https://www.youtube.com/watch?v=wdgULBpRoXk&t)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-xiimWu2-uBzreFg2swh-FuuOU6FDbPQDdYD89hA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ElectroBOOM)
@@ -108,7 +114,7 @@ Cool Videos:
 
 - [`Making a Full Bridge Rectifier`](https://www.youtube.com/watch?v=sI5Ftm1-jik&t),
 - [`Brushed DC Motors and How to Drive Them`](https://www.youtube.com/watch?v=yO9xIVv8ryc),
-- [`AC MOTORS`](https://www.youtube.com/watch?v=lV8iPKY-3ms&t)\
+- [`AC MOTORS`](https://www.youtube.com/watch?v=lV8iPKY-3ms&t)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8KUtI_mQm6HWgusSPQzTlqM2ynMCJS5Vez84RQtQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Lesics)
@@ -123,6 +129,17 @@ Cool Videos:
 - [`DC Motor, How it works?`](https://www.youtube.com/watch?v=LAtPHANEfQo&thttps://www.youtube.com/watch?v=LAtPHANEfQo&t)
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@greatscottlab)
+
+[**GreatScott!**](https://www.youtube.com/@greatscottlab)\
+Contenuto: Electronics DIY Projects, Electronics Reviews\
+Featured playlists: `DIY or Buy`, `Fix It!` \
+Cool Videos:
+
+- [`Is 3D Printing a motor possible? (Experiment)`](https://www.youtube.com/watch?v=AdNVg1MWc8c)
+- [`Is this the BEST Voltage Converter? Trying to build a Synchronous Converter!`](https://youtu.be/W4i2FRZ8gXc)
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-vHvPV5LeUZRVVJqFLgJM7FoUXiuCelDvAHg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@mitxela)
 
 [**mitxela**](https://www.youtube.com/@mitxela)\
@@ -132,7 +149,7 @@ Cool Videos:
 
 - [`Stylophone Business Card`](https://www.youtube.com/watch?v=zHVrY_xLM3c&t),
 - [`Melt your circuit boards`](https://www.youtube.com/watch?v=euJgtLcWWyo&t),
-- [`Plotter Fun`](https://youtu.be/gLG6Mp4n-Ms)\
+- [`Plotter Fun`](https://youtu.be/gLG6Mp4n-Ms)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-pxv4Rtts25vP6Rqk06rS8klT_g5U9KvWcVm2k9es=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ZackFreedman)
@@ -153,4 +170,46 @@ Contenuto: Electronic Lab Equipment Reviews and Repairs\
 Featured playlists: `Reviews`, `Repairs`, `Experiments` \
 <br>
 
+### Hardware
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9NqX7ox0cpmGoHLX6uU_AGHm9y9rcOXar52TppzA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/JeffGeerling)
+
+[**Jeff Geerling**](https://www.youtube.com/JeffGeerling)\
+Contenuto: Tech Reviews, Tech Projects\
+Featured playlists: `Homelab`, `Raspberry Pi` \
+Cool Videos:
+- [`Time to UNSUBSCRIBE from Netflix, Disney+, etc!`](https://youtu.be/RZ8ijmy3qPo)
+- [`This Raspberry Pi can sync clocks with military precision`](https://youtu.be/RvnG-ywF6_s)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/MdYgjU3xfzN_M5bdpdCvyHy-lUZxUgMlQA4izOg4oSanRK6VIxuKMEmGiWb2s8SPqY3Q0vb8SA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GeerlingEngineering)
+
+[**Geerling Engineering**](https://www.youtube.com/@GeerlingEngineering)\
+Contenuto: Hardware Projects, Interviews\
+Featured playlists: `Science`, `Radio Studios`\
+Cool Videos: 
+
+- [`I interviewed a REAL Time Lord (in St. Louis!)`](https://youtu.be/H-nb8HtpsuE)
+- [`This Raspberry Pi controls ANY PC (BliKVM)`](https://youtu.be/3OPd7svT3bE)
+<br>
+
 ### Per Arricchire La Tua Conoscenza
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
+
+[**LowSpecGamer**](https://www.youtube.com/@LowSpecGamer)\
+Contenuto: Short Documentaries on Consumer Electronics\
+Featured playlists: `The Yokoi saga`, `Chip Wars`\
+Cool Videos:
+- [`Intel’s worst Nightmare`](https://www.youtube.com/watch?v=P1aqtfXUCEk)
+- [`Steve Jobs’ most Impulsive Decision`](https://www.youtube.com/watch?v=H1dzNuyq6O0)
+- [`How the Game Boy ᵃˡᵐᵒˢᵗ ruined Nintendo`](https://www.youtube.com/watch?v=9Ki-kH751_8)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8giocL5QtOHe8hLjl6xNobvGl8ZQS05wVFmybVCg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@kurzgesagt)
+
+[**Kurzgesagt – In a Nutshell**](https://www.youtube.com/@kurzgesagt)\
+Contenuto: Science Topics\
+Featured playlists: `The Universe and Space stuff`, `The Existential Crisis Playlist`\
+<br>
+
