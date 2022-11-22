@@ -23,10 +23,9 @@ Per tale motivo, consiglio ai lettori caldamente la visione dei video dei canali
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
 
-<img align="left" src="./Icons/favorite_badge.svg" height="22px">
+[**LowSpecGamer**](https://www.youtube.com/@LowSpecGamer)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
 <br>
-
-[**LowSpecGamer**](https://www.youtube.com/@LowSpecGamer)\
 Contenuto: Short Documentaries on Consumer Electronics\
 Featured playlists: `The Yokoi saga`, `Chip Wars`\
 Cool Videos:
@@ -44,7 +43,9 @@ Featured playlists: `The Universe and Space stuff`, `The Existential Crisis Play
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/5DBP22k02WIMvHgeoUj_Tt14Kh8u-oaAhYHQu1gXCoHuisGXnavb5k-ivpyffqIARNDzgpBbUw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NotJustBikes)
 
-[**Not Just Bikes**](https://www.youtube.com/@NotJustBikes)\
+[**Not Just Bikes**](https://www.youtube.com/@NotJustBikes)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: Urban Planning\
 Featured playlists: `Streets & Cities`, `Public Transportation`\
 Cool Videos:
@@ -75,7 +76,10 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/fBpoUkJJ6iVHfHocQ0gPcqLxa1RJIZzdGmP0o72ZK2uVJFwbNt4Afnwmkvv_NikYGCQ6oI7L4dA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Asianometry)
 
-[**Asianometry**](https://www.youtube.com/Asianometry)\
+[**Asianometry**](https://www.youtube.com/Asianometry)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
+
 Contenuto: Science & Technology History Essays\
 Featured playlists: `Global Semiconductor Issues`, `Asian Social Issues`, `Engineering and Technology Deep Dives`\
 Cool Videos:
@@ -99,7 +103,9 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/b4TIQdFmoHYvQmcMt1XGH40m8-P5VdjyaZKb2C6nmkezGVk2Ln1csqe1PWg5aefEyk-NEFWhzg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@answerinprogress)
 
-[**Answer in Progress**](https://www.youtube.com/@answerinprogress)\
+[**Answer in Progress**](https://www.youtube.com/@answerinprogress)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: Essays on Diverse Topics eg. Human Behaviours, History, and more\
 Featured playlists: `Artificial Unintelligence`, `Cool History`, `Self-Improvement`\
 Cool Videos:
@@ -187,7 +193,9 @@ Featured playlists: `Essence of linear algebra`, `Essence of calculus`, `Differe
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9KNICII8K6n2xl3dVDUXmhQmTgbv6ITnMNOWBtKQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@JordanEdmundsEECS)
 
-[**Jordan Edmunds**](https://www.youtube.com/@JordanEdmundsEECS)\
+[**Jordan Edmunds**](https://www.youtube.com/@JordanEdmundsEECS)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: EM Physics, Semiconductor Physics, Calculus, Statistics\
 Featured playlists: `Digital Electronics`, `Electromagnetics`, [`Electronics I: Semiconductor Physics and Devices`](https://www.youtube.com/playlist?list=PLQms29D1RqeKGBEW8La2a7YuN5_4pSV4k)\
 <br>
@@ -225,7 +233,9 @@ Featured playlists: `Electronics for Beginners`, `Motor control circuitry`\
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-kU9PC58G3oWVDRGpXtAahyi7ehzEKpcf235Sg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BenEater)
 
-[**Ben Eater**](https://www.youtube.com/@BenEater)\
+[**Ben Eater**](https://www.youtube.com/@BenEater)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: Electronics, Electronics Analysis, Protocol Analysis\
 Featured playlists: `Digital electronics tutorial`, `Networking tutorial`\
 Cool Videos:
@@ -270,7 +280,9 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-xiimWu2-uBzreFg2swh-FuuOU6FDbPQDdYD89hA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ElectroBOOM)
 
-[**ElectroBOOM**](https://www.youtube.com/@ElectroBOOM)\
+[**ElectroBOOM**](https://www.youtube.com/@ElectroBOOM)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: Electronics Basics, ELectronics Projects\
 Featured playlists: `Electronics`, `ElectroBOOM101`, `The RECTIFIER`\
 Cool Videos:
@@ -282,7 +294,9 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@greatscottlab)
 
-[**GreatScott!**](https://www.youtube.com/@greatscottlab)\
+[**GreatScott!**](https://www.youtube.com/@greatscottlab)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: Electronics DIY Projects, Electronics Reviews\
 Featured playlists: `DIY or Buy`, `Fix It!` \
 Cool Videos:
@@ -393,7 +407,9 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9qm8EZa7fVEFYZjLYGbM5evC8t6kqDTZ940PN_=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TechnologyConnections)
 
-[**Channel Name**](https://www.youtube.com/@TechnologyConnections)\
+[**Technology Connections**](https://www.youtube.com/@TechnologyConnections)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: Working Of Vintage & Current Technologies\
 Featured playlists: `Electrical topics`, `Tech Explorations`\
 Cool Videos:
@@ -407,7 +423,9 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_ypGAu1WOxjYfSK93k-CwO_gb-Ou77Q-xcqfvG-Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/CNCKitchen)
 
-[**CNC Kitchen**](https://www.youtube.com/CNCKitchen)\
+[**CNC Kitchen**](https://www.youtube.com/CNCKitchen)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: 3D Printing In Depth analysis\
 Featured playlists: `3D Printing for Engineers`, `Strength Tests`\
 Cool Videos:
@@ -419,7 +437,9 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8l3o-jFvIU8tkwObeFssqH1yI22JA_SkXDyF4jRA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MadeWithLayers/)
 
-[**Channel Name**](https://www.youtube.com/@MadeWithLayers/)\
+[**Thomas Sanladerer**](https://www.youtube.com/@MadeWithLayers/)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: 3D Printing, Reviews, Analysis, Techniques\
 Featured playlists: `3D printing basics`, \
 Cool Videos:
@@ -431,7 +451,9 @@ Cool Videos:
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_-ZCimZH9Q_hcobikyI2v8FaNobunynRJa-qQ-2g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@integza)
 
-[**Integza**](https://www.youtube.com/@integza)\
+[**Integza**](https://www.youtube.com/@integza)
+<img align="left" src="./Icons/favorite_badge.svg" alt ="Reccoamnded Badge" height="22px">
+<br>
 Contenuto: 3D Printing Projects, Rockets, Motors\
 Featured playlists: `Rocket Engines`, `PulseJet Engine`\
 Cool Videos:
