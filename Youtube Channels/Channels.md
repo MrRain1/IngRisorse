@@ -5,12 +5,78 @@
 
 ## Indice Locale
 
+- [Per arricchire la tua conoscenza](#per-arricchire-la-tua-conoscenza)
 - [Programmazione](#programmazione)
 - [Matematica e Fisica](#matematica-e-fisica)
 - [Elettronica](#elettronica)
 - [Hardware](#hardware)
   - [3D Printing](#3d-printing)
-- [Per arricchire la tua conoscenza](#per-arricchire-la-tua-conoscenza)
+
+## **Per Arricchire La Tua Conoscenza**
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
+
+[**LowSpecGamer**](https://www.youtube.com/@LowSpecGamer)\
+Contenuto: Short Documentaries on Consumer Electronics\
+Featured playlists: `The Yokoi saga`, `Chip Wars`\
+Cool Videos:
+- [`Intel’s worst Nightmare`](https://www.youtube.com/watch?v=P1aqtfXUCEk)
+- [`Steve Jobs’ most Impulsive Decision`](https://www.youtube.com/watch?v=H1dzNuyq6O0)
+- [`How the Game Boy ᵃˡᵐᵒˢᵗ ruined Nintendo`](https://www.youtube.com/watch?v=9Ki-kH751_8)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8giocL5QtOHe8hLjl6xNobvGl8ZQS05wVFmybVCg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@kurzgesagt)
+
+[**Kurzgesagt – In a Nutshell**](https://www.youtube.com/@kurzgesagt)\
+Contenuto: Science Topics\
+Featured playlists: `The Universe and Space stuff`, `The Existential Crisis Playlist`\
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/5DBP22k02WIMvHgeoUj_Tt14Kh8u-oaAhYHQu1gXCoHuisGXnavb5k-ivpyffqIARNDzgpBbUw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NotJustBikes)
+
+[**Not Just Bikes**](https://www.youtube.com/@NotJustBikes)\
+Contenuto: Urban Planning\
+Featured playlists: `Streets & Cities`, `Public Transportation`\
+Cool Videos:
+- [`Stroads are Ugly, Expensive, and Dangerous`](https://www.youtube.com/watch?v=ORzNZUeUHAM)
+- [`The Trains that Killed an Airline - Italian HSR`](https://www.youtube.com/watch?v=IbFGG4T3_Yo)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/fBpoUkJJ6iVHfHocQ0gPcqLxa1RJIZzdGmP0o72ZK2uVJFwbNt4Afnwmkvv_NikYGCQ6oI7L4dA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Asianometry)
+
+[**Asianometry**](https://www.youtube.com/Asianometry)\
+Contenuto: Science & Technology History Essays\
+Featured playlists: `Global Semiconductor Issues`, `Asian Social Issues`, `Engineering and Technology Deep Dives`\
+Cool Videos:
+
+- [`Google's Open Source Hardware Dreams`](https://youtu.be/tR7HuqZXQ3I)
+- [`The History of the FPGA: The Ultimate Flex`](https://youtu.be/m-8G1Yixb34)
+- [`Why the Soviet Computer Failed`](https://www.youtube.com/watch?v=dnHdqPBrtH8)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9FC7c6BM14VuYmeYY1xBB-fQf7TyvCyGY-Wz3m-g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@AlphaPhoenixChannel)
+
+[**AlphaPhoenix**](https://www.youtube.com/@AlphaPhoenixChannel)\
+Contenuto: Science and Technology Essays\
+Featured playlists: `Crystals`, `Code! Algorithms! Wow!`\
+Cool Videos:
+
+- [`Five years in 49 minutes`](https://www.youtube.com/watch?v=qiMR6yAFfyA)
+- [`Are solid objects really “solid”?`](https://www.youtube.com/watch?v=DqhXsEgLMJ0&t)
+- [`Algorithmic Redistricting: Elections made-to-order`](https://www.youtube.com/watch?v=Lq-Y7crQo44)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/b4TIQdFmoHYvQmcMt1XGH40m8-P5VdjyaZKb2C6nmkezGVk2Ln1csqe1PWg5aefEyk-NEFWhzg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@answerinprogress)
+
+[**Answer in Progress**](https://www.youtube.com/@answerinprogress)\
+Contenuto: Essays on Diverse Topics eg. Human Behaviours, History, and more\
+Featured playlists: `Artificial Unintelligence`, `Cool History`, `Self-Improvement`\
+Cool Videos:
+- [`i read 700 years of history to fix my glasses`](https://www.youtube.com/watch?v=hYRkQEFWnNo)
+- [`why do people hate math`](https://www.youtube.com/watch?v=xvOkXXprG2g&t)
+- [the science behind lofi music](https://www.youtube.com/watch?v=OeFujF6LdAM&t)
+- [why small talk sucks](https://www.youtube.com/watch?v=_ZrRpL2s3t8&t)
+<br>
 
 ## **Programmazione**
 
@@ -115,6 +181,19 @@ Cool Videos:
 - [`The world's worst video card?`](https://www.youtube.com/watch?v=l7rce6IQDWs&t),
 - [`How does a USB keyboard work?`](https://www.youtube.com/watch?v=wdgULBpRoXk&t)
 <br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9E5qOaUwEjok7bYmWRvT87JyyGEKzrGsc9Cv8WZg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/ALLABOUTELECTRONICS)
+
+[**ALL ABOUT ELECTRONICS**](https://www.youtube.com/ALLABOUTELECTRONICS)\
+Contenuto: Workings of Electronic Components, Circuit Analysis\
+Featured playlists: `Analog Electronics`, `BJT (Bipolar Junction Transistor)`, `Digital Electronics`\
+Cool Videos:
+
+- [`Half wave Rectifier Explained`](https://www.youtube.com/watch?v=Ll0IOk_Ltfc)
+- [`Op-Amp Differentiator (with Derivation and Examples)`](https://www.youtube.com/watch?v=aU24RWIgJVs)
+- [`Crystal Oscillator Explained`](https://youtu.be/YzcKQWwkzWs)
+<br>
+
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-DtVdkoGky7GTGMETBrCO3WC8oFP2i3MfIeeIKqOI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@SamZeloof)
 
@@ -296,48 +375,6 @@ Cool Videos:
 
 - [`Design a parametric, 3d-printable Slew Bearing`](https://www.youtube.com/watch?v=5o4Fj8OxkB8)
 - [`3d-printed Halbach Motor`](https://www.youtube.com/watch?v=YsSm65DAcCg)
-<br>
-
-## **Per Arricchire La Tua Conoscenza**
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
-
-[**LowSpecGamer**](https://www.youtube.com/@LowSpecGamer)\
-Contenuto: Short Documentaries on Consumer Electronics\
-Featured playlists: `The Yokoi saga`, `Chip Wars`\
-Cool Videos:
-- [`Intel’s worst Nightmare`](https://www.youtube.com/watch?v=P1aqtfXUCEk)
-- [`Steve Jobs’ most Impulsive Decision`](https://www.youtube.com/watch?v=H1dzNuyq6O0)
-- [`How the Game Boy ᵃˡᵐᵒˢᵗ ruined Nintendo`](https://www.youtube.com/watch?v=9Ki-kH751_8)
-<br>
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8giocL5QtOHe8hLjl6xNobvGl8ZQS05wVFmybVCg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@kurzgesagt)
-
-[**Kurzgesagt – In a Nutshell**](https://www.youtube.com/@kurzgesagt)\
-Contenuto: Science Topics\
-Featured playlists: `The Universe and Space stuff`, `The Existential Crisis Playlist`\
-<br>
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/5DBP22k02WIMvHgeoUj_Tt14Kh8u-oaAhYHQu1gXCoHuisGXnavb5k-ivpyffqIARNDzgpBbUw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NotJustBikes)
-
-[**Not Just Bikes**](https://www.youtube.com/@NotJustBikes)\
-Contenuto: Urban Planning\
-Featured playlists: `Streets & Cities`, `Public Transportation`\
-Cool Videos:
-- [`Stroads are Ugly, Expensive, and Dangerous`](https://www.youtube.com/watch?v=ORzNZUeUHAM)
-- [`The Trains that Killed an Airline - Italian HSR`](https://www.youtube.com/watch?v=IbFGG4T3_Yo)
-<br>
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/fBpoUkJJ6iVHfHocQ0gPcqLxa1RJIZzdGmP0o72ZK2uVJFwbNt4Afnwmkvv_NikYGCQ6oI7L4dA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Asianometry)
-
-[**Asianometry**](https://www.youtube.com/Asianometry)\
-Contenuto: Science & Technology History Essays\
-Featured playlists: `Global Semiconductor Issues`, `Asian Social Issues`, `Engineering and Technology Deep Dives`\
-Cool Videos:
-
-- [`Google's Open Source Hardware Dreams`](https://youtu.be/tR7HuqZXQ3I)
-- [`The History of the FPGA: The Ultimate Flex`](https://youtu.be/m-8G1Yixb34)
-- [`Why the Soviet Computer Failed`](https://www.youtube.com/watch?v=dnHdqPBrtH8)
 <br>
 
 [Torna alla pagina principale](/README.md)\
