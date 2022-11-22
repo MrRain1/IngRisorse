@@ -14,6 +14,10 @@
 
 ## **Per Arricchire La Tua Conoscenza**
 
+<p align="justify">
+Educarsi non significa solamente studiare le materie accademiche inerenti al proprio percorso, ma anche <b>espandere i propri orizzonti</b> verso altre storie, per <b>formare il proprio pensiero critico</b> e <b>acquisire una sensibilità</b> a problemi dell'uomo, ambiente, vivere civile e molto altro.
+</p>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
 
 [**LowSpecGamer**](https://www.youtube.com/@LowSpecGamer)\
