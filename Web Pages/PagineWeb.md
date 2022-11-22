@@ -35,6 +35,14 @@ Contenuto: GitHub repo containing step by step guides to build technologies and 
 <br>
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Webpage Icon" src="./Logos/GitHub_logo.svg"/>](https://github.com/EbookFoundation/free-programming-books)
+
+[**Free Programming Ebooks**](https://github.com/EbookFoundation/free-programming-books)\
+Contenuto: List of Free Learning Resources In Many Languages\
+You can use the Github Repo or surf the [**Website**](https://ebookfoundation.github.io/free-programming-books-search/) version
+<br>
+<br>
+
 ## **Matematica e Fisica**
 
 ## **Elettronica**
