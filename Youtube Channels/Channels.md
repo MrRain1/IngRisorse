@@ -45,7 +45,7 @@ Cool Videos:
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/hHyudtFZor6y5iKVe4_9OiFOi75g_o3lU4npMaxDxnHJWbP8TP5g9qJND0mWmwyZON4R__qF=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Faultlinevideos/)
 
 [**Faultline**](https://www.youtube.com/Faultlinevideos/)\
-Contenuto: Geography, Geopolitics, History
+Contenuto: Geography, Geopolitics, History\
 Featured playlists: `Geography`, `Geopolitics`\
 Cool Videos:
 
