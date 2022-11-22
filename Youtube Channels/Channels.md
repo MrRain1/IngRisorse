@@ -95,8 +95,8 @@ Featured playlists: `Artificial Unintelligence`, `Cool History`, `Self-Improveme
 Cool Videos:
 - [`i read 700 years of history to fix my glasses`](https://www.youtube.com/watch?v=hYRkQEFWnNo)
 - [`why do people hate math`](https://www.youtube.com/watch?v=xvOkXXprG2g&t)
-- [the science behind lofi music](https://www.youtube.com/watch?v=OeFujF6LdAM&t)
-- [why small talk sucks](https://www.youtube.com/watch?v=_ZrRpL2s3t8&t)
+- [`the science behind lofi music`](https://www.youtube.com/watch?v=OeFujF6LdAM&t)
+- [`why small talk sucks`](https://www.youtube.com/watch?v=_ZrRpL2s3t8&t)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9GPnt0_qkPvaF9eUR65kbCsQ0IoQsrAlu4Nz6g8Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ZooSparkle)
