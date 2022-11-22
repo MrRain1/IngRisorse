@@ -42,6 +42,27 @@ Cool Videos:
 - [`The Trains that Killed an Airline - Italian HSR`](https://www.youtube.com/watch?v=IbFGG4T3_Yo)
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/hHyudtFZor6y5iKVe4_9OiFOi75g_o3lU4npMaxDxnHJWbP8TP5g9qJND0mWmwyZON4R__qF=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Faultlinevideos/)
+
+[**Faultline**](https://www.youtube.com/Faultlinevideos/)\
+Contenuto: Geography, Geopolitics, History
+Featured playlists: `Geography`, `Geopolitics`\
+Cool Videos:
+
+- [`Why All Educational Videos Are the Same`](https://www.youtube.com/watch?v=94Df7DbuKsA)
+- [`Why Canada Doesn’t Care About These Towns`](https://www.youtube.com/watch?v=Z1qdT4K7gmc)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/KOEzvCR1_qU_d2AlLqUO5UZ03ysokQsJ6N2pL8JjAhZG90D0spoy8KDRdnxWAfGHCZ5rgGHJ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/ThePresentPast_)
+
+[**The Present Past**](https://www.youtube.com/ThePresentPast_)\
+Contenuto: History\
+\
+Cool Videos:
+
+- [`How the Dutch Shaped Indonesia`](https://www.youtube.com/watch?v=Zzv8URa3GEA)
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/fBpoUkJJ6iVHfHocQ0gPcqLxa1RJIZzdGmP0o72ZK2uVJFwbNt4Afnwmkvv_NikYGCQ6oI7L4dA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Asianometry)
 
 [**Asianometry**](https://www.youtube.com/Asianometry)\
@@ -76,6 +97,18 @@ Cool Videos:
 - [`why do people hate math`](https://www.youtube.com/watch?v=xvOkXXprG2g&t)
 - [the science behind lofi music](https://www.youtube.com/watch?v=OeFujF6LdAM&t)
 - [why small talk sucks](https://www.youtube.com/watch?v=_ZrRpL2s3t8&t)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9GPnt0_qkPvaF9eUR65kbCsQ0IoQsrAlu4Nz6g8Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ZooSparkle)
+
+[**ZooSparkle**](https://www.youtube.com/@ZooSparkle)\
+Contenuto: Zoology, Dinosaurs\
+Featured playlists: `Domesticazione`\
+Cool Videos:
+
+- [`il DINOSAUROIDE: l'evoluzione dei dinosauri`](https://www.youtube.com/watch?v=5cKRtP-6qrw)
+- [`il misterioso SQUALO GOBLIN`](https://www.youtube.com/watch?v=pUgi0FTNMew)
+- [`e se i DRAGHI ESISTESSERO?`](https://www.youtube.com/watch?v=83ryk5550sM)
 <br>
 
 ## **Programmazione**
@@ -161,6 +194,16 @@ Cool Videos:
 - [`The intuition behind Fourier and Laplace transforms I was never taught in school`](https://youtu.be/3gjJDuCAEQQ)
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9BNX7rJSgbOX57sIdRlHod0WUzhOcjJ-lpgyggWw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@PlasmaChannel)
+
+[**Plasma Channel**](https://www.youtube.com/@PlasmaChannel)\
+Contenuto: Physics, Plasma, High Voltage Physics\
+Featured playlists: `DIY High Voltage Builds`\
+Cool Videos:
+
+- [`Designing A Next-Gen Ionic Thruster! (For Flight)`](https://www.youtube.com/watch?v=nrEBoPYS4ns)
+<br>
+
 ## **Elettronica**
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_o9cRMZkh1JdSdCSBA_591svQx25P8Ib-bNb9yLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/Afrotechmods)
@@ -194,6 +237,15 @@ Cool Videos:
 - [`Crystal Oscillator Explained`](https://youtu.be/YzcKQWwkzWs)
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="pic url"/>](https://www.youtube.com/@leosbagoftricks3732)
+
+[**Leo's Bag of Tricks**](https://www.youtube.com/@leosbagoftricks3732)\
+Contenuto: Electronics & Mechanical Projects, Product Development\
+Featured playlists: `Electronics`, `Existentialism`\
+Cool Videos:
+
+- [`Techniques and Strategies for Building Electronic Circuits`](https://www.youtube.com/watch?v=vq968AFgPhg)
+<br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-DtVdkoGky7GTGMETBrCO3WC8oFP2i3MfIeeIKqOI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@SamZeloof)
 
@@ -288,7 +340,7 @@ Cool Videos:
 [**Geerling Engineering**](https://www.youtube.com/@GeerlingEngineering)\
 Contenuto: Hardware Projects, Interviews\
 Featured playlists: `Science`, `Radio Studios`\
-Cool Videos: 
+Cool Videos:
 
 - [`I interviewed a REAL Time Lord (in St. Louis!)`](https://youtu.be/H-nb8HtpsuE)
 - [`This Raspberry Pi controls ANY PC (BliKVM)`](https://youtu.be/3OPd7svT3bE)
@@ -353,6 +405,18 @@ Cool Videos:
 - [`Threaded Inserts in 3D Prints - How strong are they?`](https://youtu.be/iR6OBlSzp7I)
 - [`Texturing 3D Prints for Strength!`](https://youtu.be/3-ygdNQThAs)
 - [` TESTING 3D printed INFILL PATTERNS for their STRENGTH `](https://youtu.be/upELI0HmzHc)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8l3o-jFvIU8tkwObeFssqH1yI22JA_SkXDyF4jRA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MadeWithLayers/)
+
+[**Channel Name**](https://www.youtube.com/@MadeWithLayers/)\
+Contenuto: 3D Printing, Reviews, Analysis, Techniques\
+Featured playlists: `3D printing basics`, \
+Cool Videos:
+
+- [`Get the benefits of a 0.6mm nozzle with a 0.4?`](https://www.youtube.com/watch?v=nmigF5qyJ4M)
+- [`0.4mm nozzles just became obsolete`](https://www.youtube.com/watch?v=WgXM2zPusXo)
+- [`The fastest way to make crisp PCBs at home!`](https://www.youtube.com/watch?v=RudStbSApdE)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_-ZCimZH9Q_hcobikyI2v8FaNobunynRJa-qQ-2g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@integza)
