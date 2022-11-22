@@ -1,4 +1,6 @@
-# **Youtube**
+# **Pagine Web**
+
+Raccolta di Pagine Web (documentazione di linguaggi, pagine GitHub) che possano essere utili per approfondire o esercitarsi su argoemnti di interesse.
 
 [Torna alla pagina principale](/README.md)
 
