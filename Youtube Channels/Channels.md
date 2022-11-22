@@ -1,5 +1,5 @@
 # **Youtube**
-<img align="right" alt="Youtube Logo" src="./Icon/Youtube.svg" height="150px">
+<img align="right" alt="Youtube Logo" src="./Icons/Youtube.svg" height="150px">
 
 [Torna alla pagina principale](/README.md)
 
