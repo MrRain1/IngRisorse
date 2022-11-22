@@ -1,6 +1,6 @@
 # **Youtube**
 
-[Torna Alla Pagina Principale](/README.md)
+[Torna alla pagina principale](/README.md)
 
 ## Indice Locale
 
@@ -20,4 +20,5 @@
 
 ## **Per Arricchire La Tua Conoscenza**
 
-[Torna Alla Pagina Principale](/README.md)
+[Torna alla pagina principale](/README.md)
+[Torna all'indice locale](#indice-locale)

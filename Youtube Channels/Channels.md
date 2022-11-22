@@ -1,6 +1,6 @@
 # **Youtube**
 
-[Torna Alla Pagina Principale](/README.md)
+[Torna alla pagina principale](/README.md)
 
 ## Indice Locale
 
@@ -339,4 +339,5 @@ Cool Videos:
 - [`Why the Soviet Computer Failed`](https://www.youtube.com/watch?v=dnHdqPBrtH8)
 <br>
 
-[Torna Alla Pagina Principale](/README.md)
+[Torna alla pagina principale](/README.md)
+[Torna all'indice locale](#indice-locale)
