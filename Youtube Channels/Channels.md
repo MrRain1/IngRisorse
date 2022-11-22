@@ -18,7 +18,7 @@
 Educarsi non significa solamente studiare le materie accademiche inerenti al proprio percorso, ma anche <b>espandere i propri orizzonti</b> verso altre storie, per <b>formare il proprio pensiero critico</b> e <b>acquisire una sensibilità</b> a problemi dell'uomo, ambiente, vivere civile e molto altro.
 <br>
 <br>
-Per tale motivo, consiglio ai lettori caldamente la visione dei video dei canali presenti in questa sezione, in quanto li ritengo interessanti per ampliare le proprie conoscenze, non come si segue una lezione passivamente, ma come ascoltando e partecipando alla narrazione di una storia.
+Per tale motivo, consiglio ai lettori caldamente la visione dei video dei canali presenti in questa sezione, in quanto li ritengo interessanti per ampliare le proprie conoscenze, non come si segue una lezione passivamente, ma ascoltando e partecipando alla narrazione di una storia.
 </p>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
