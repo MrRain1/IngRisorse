@@ -237,7 +237,7 @@ Cool Videos:
 - [`Crystal Oscillator Explained`](https://youtu.be/YzcKQWwkzWs)
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="pic url"/>](https://www.youtube.com/@leosbagoftricks3732)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_QPsEo_Du5f_GIKFn7mP6IVSNqjz51unxo3kSv=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@leosbagoftricks3732)
 
 [**Leo's Bag of Tricks**](https://www.youtube.com/@leosbagoftricks3732)\
 Contenuto: Electronics & Mechanical Projects, Product Development\
