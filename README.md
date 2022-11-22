@@ -11,3 +11,4 @@ La gran parte delle risorse elencate sono in lingua inglese, motivo in più per 
 
 - [Youtube](/Youtube%20Channels/Channels.md)
 - [Pagine Web](/Web%20Pages/PagineWeb.md)
+- [Open Source & Free contents](/Open%20Source%20Utils/OpenSourceUtils.md)
