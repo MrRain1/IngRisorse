@@ -23,6 +23,9 @@ Per tale motivo, consiglio ai lettori caldamente la visione dei video dei canali
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8QZPOA-jsxS13oN-pYG3hAiyZOCy6sBV37JvLA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LowSpecGamer)
 
+<img align="left" src="./Icons/favorite_badge.svg" height="22px">
+<br>
+
 [**LowSpecGamer**](https://www.youtube.com/@LowSpecGamer)\
 Contenuto: Short Documentaries on Consumer Electronics\
 Featured playlists: `The Yokoi saga`, `Chip Wars`\
